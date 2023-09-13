@@ -3,6 +3,9 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
+<p align="center">
+  ACESSE AQUI: https://azeveddo.github.io/NLW-10-COPA/
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
